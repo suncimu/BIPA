@@ -1,0 +1,10 @@
+SSIM between original and NF for channel 1: 0.7096
+SSIM between original and T_average for channel 1: 0.6465
+SSIM between original and Example for channel 1: 0.4538
+SSIM between original and NF for channel 2: 0.7023
+SSIM between original and T_average for channel 2: 0.6382
+SSIM between original and Example for channel 2: 0.4455
+SSIM between original and NF for channel 3: 0.7026
+SSIM between original and T_average for channel 3: 0.6389
+SSIM between original and Example for channel 3: 0.4444
+
